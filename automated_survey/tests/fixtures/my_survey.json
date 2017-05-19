@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "body": "How do you like this app?",
+      "kind": "text"
+    },
+    {
+      "body": "In a scale of 1 to 10, how would you rate this app?",
+      "kind": "numeric"
+    },
+    {
+      "body": "Do you think it is better than other apps?",
+      "kind": "yes-no"
+    },
+    {
+      "body": "What are the differences between this app and other similar apps?",
+      "kind": "text"
+    },
+    {
+      "body": "In a few words, how would you describe yourself?",
+      "kind": "text"
+    }
+
+  ],
+  "title": "About this app"
+}
